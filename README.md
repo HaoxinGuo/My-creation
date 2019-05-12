@@ -10,3 +10,10 @@ Midas模型转换成OpenSEES模型，并实时显示。
 整理了个人研究生期间的摄影作品。  
 https://1drv.ms/b/s!Agua0yeJwjUejEjvZKAeTT9ggmEO  
 # 视频作品
+https://1drv.ms/f/s!Agua0yeJwjUejEudSxs_2YJ2NtmV  
+# dot2pdf脚
+批量处理gz/dot文件生成需要的PDF/PNG文件 整理了批量转换文件的操作方法。  
+https://github.com/HaoxinGuo/dot2pdf
+
+
+
