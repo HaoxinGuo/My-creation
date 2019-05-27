@@ -13,7 +13,9 @@ https://1drv.ms/b/s!Agua0yeJwjUejEjvZKAeTT9ggmEO
 https://1drv.ms/f/s!Agua0yeJwjUejEudSxs_2YJ2NtmV  
 # dot2pdf脚
 批量处理gz/dot文件生成需要的PDF/PNG文件 整理了批量转换文件的操作方法。  
-https://github.com/HaoxinGuo/dot2pdf
+https://github.com/HaoxinGuo/dot2pdf  
+# C++Primer学习笔记和课后练习题解
 
+https://github.com/HaoxinGuo/CPlusPlusPrimerProblemset
 
 
