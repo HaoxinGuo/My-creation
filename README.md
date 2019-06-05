@@ -40,10 +40,8 @@ https://www.sanjieke.cn/p/7b8acd11
 
 我的证书
 
-![证书1](Figures/Coursera3ADEPBHXDTVQ.jpg)
-![证书2](Figures/Coursera9RDNWY5TR825.jpg)
-![证书3](Figures/CourseraGFFEPBWFQSSL.jpg)
-![证书4](Figures/CourseraTY7B92VU3VY9.jpg)
+![证书](Figures/Couresera.png)
+
 
 
 # C++Primer学习笔记和课后练习题解
