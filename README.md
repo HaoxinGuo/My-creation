@@ -1,9 +1,9 @@
 # My-creation  
 整理了个人的软件，摄影作品和视频作品，课外学习作品。   
-大家也可以去我的[CSDN博客](https://blog.csdn.net/guohaoxin)。  
+大家也可以查看我的[CSDN博客](https://blog.csdn.net/guohaoxin)。  
 # NASM软件地址  
 https://github.com/HaoxinGuo/NASM  
-地震作用下剪切型结构线性/非线性时程分析
+地震作用下剪切型结构线性/非线性时程分析。
 # Midas2OpenSEES脚本地址  
 https://github.com/HaoxinGuo/Midas2OpenSEES  
 Midas模型转换成OpenSEES模型，并实时显示。
