@@ -6,9 +6,12 @@
 
 # NASM软件地址  
 
-https://github.com/HaoxinGuo/NASM  
+https://github.com/HaoxinGuo/NASM
 
 地震作用下剪切型结构线性/非线性时程分析。
+
+![示意图](https://github.com/HaoxinGuo/NASM/blob/master/Figures/2019-06-01_21-51-33_1.gif)
+
 
 # Midas2OpenSEES脚本地址  
 
