@@ -38,7 +38,8 @@ https://www.sanjieke.cn/p/7b8acd11
 
 # 人工智能深度学习系列课程
 
-我的证书！[证书1](../Figures/Coursera3ADEPBHXDTVQ.pdf)
+我的证书
+![证书1](../Figures/Coursera3ADEPBHXDTVQ.pdf)
 ![证书2](../Figures/Coursera 9RDNWY5TR825.pdf)
 ![证书3](../Figures/Coursera GFFEPBWFQSSL.pdf)
 ![证书4](../Figures/Coursera TY7B92VU3VY9.pdf)
